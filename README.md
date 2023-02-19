@@ -6,7 +6,7 @@ To get started with the project, you can clone the repository to your local mach
 
 bash
 Copy code
-git clone https://github.com/yourusername/wine-festival-schedule.git
+git clone https://github.com/euortiz/wine-festival-schedule.git
 You can also download the project as a zip file by clicking on the "Code" button and selecting "Download ZIP".
 
 Prerequisites
